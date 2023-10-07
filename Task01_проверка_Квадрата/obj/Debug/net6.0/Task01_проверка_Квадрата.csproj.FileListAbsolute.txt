@@ -1,0 +1,15 @@
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\bin\Debug\net6.0\Task01_проверка_Квадрата.exe
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\bin\Debug\net6.0\Task01_проверка_Квадрата.deps.json
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\bin\Debug\net6.0\Task01_проверка_Квадрата.runtimeconfig.json
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\bin\Debug\net6.0\Task01_проверка_Квадрата.dll
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\bin\Debug\net6.0\Task01_проверка_Квадрата.pdb
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\Task01_проверка_Квадрата.csproj.AssemblyReference.cache
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\Task01_проверка_Квадрата.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\Task01_проверка_Квадрата.AssemblyInfoInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\Task01_проверка_Квадрата.AssemblyInfo.cs
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\Task01_проверка_Квадрата.csproj.CoreCompileInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\Task01_проверка_Квадрата.dll
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\refint\Task01_проверка_Квадрата.dll
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\Task01_проверка_Квадрата.pdb
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\Task01_проверка_Квадрата.genruntimeconfig.cache
+C:\Users\Buyanov.D\Desktop\C#\Task01_проверка_Квадрата\obj\Debug\net6.0\ref\Task01_проверка_Квадрата.dll

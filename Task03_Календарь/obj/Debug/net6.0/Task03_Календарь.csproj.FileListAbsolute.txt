@@ -1,0 +1,15 @@
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\bin\Debug\net6.0\Task03_Календарь.exe
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\bin\Debug\net6.0\Task03_Календарь.deps.json
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\bin\Debug\net6.0\Task03_Календарь.runtimeconfig.json
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\bin\Debug\net6.0\Task03_Календарь.dll
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\bin\Debug\net6.0\Task03_Календарь.pdb
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\Task03_Календарь.csproj.AssemblyReference.cache
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\Task03_Календарь.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\Task03_Календарь.AssemblyInfoInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\Task03_Календарь.AssemblyInfo.cs
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\Task03_Календарь.csproj.CoreCompileInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\Task03_Календарь.dll
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\refint\Task03_Календарь.dll
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\Task03_Календарь.pdb
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\Task03_Календарь.genruntimeconfig.cache
+C:\Users\Buyanov.D\Desktop\C#\Task03_Календарь\obj\Debug\net6.0\ref\Task03_Календарь.dll

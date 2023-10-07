@@ -1,0 +1,15 @@
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\bin\Debug\net6.0\Task00_Возведение в квадрат.exe
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\bin\Debug\net6.0\Task00_Возведение в квадрат.deps.json
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\bin\Debug\net6.0\Task00_Возведение в квадрат.runtimeconfig.json
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\bin\Debug\net6.0\Task00_Возведение в квадрат.dll
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\bin\Debug\net6.0\Task00_Возведение в квадрат.pdb
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\Task00_Возведение в квадрат.csproj.AssemblyReference.cache
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\Task00_Возведение в квадрат.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\Task00_Возведение в квадрат.AssemblyInfoInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\Task00_Возведение в квадрат.AssemblyInfo.cs
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\Task00_Возведение в квадрат.csproj.CoreCompileInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\Task00_Возведение в квадрат.dll
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\refint\Task00_Возведение в квадрат.dll
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\Task00_Возведение в квадрат.pdb
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\Task00_Возведение в квадрат.genruntimeconfig.cache
+C:\Users\Buyanov.D\Desktop\C#\Task00_Возведение в квадрат\obj\Debug\net6.0\ref\Task00_Возведение в квадрат.dll

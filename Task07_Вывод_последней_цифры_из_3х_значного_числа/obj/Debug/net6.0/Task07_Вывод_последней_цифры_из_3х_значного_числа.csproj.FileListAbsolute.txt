@@ -1,0 +1,15 @@
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj.AssemblyReference.cache
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.AssemblyInfoInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.AssemblyInfo.cs
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj.CoreCompileInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\bin\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.exe
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\bin\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.deps.json
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\bin\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.runtimeconfig.json
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\bin\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.dll
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\bin\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.pdb
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.dll
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\refint\Task07_Вывод_последней_цифры_из_3х_значного_числа.dll
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.pdb
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\Task07_Вывод_последней_цифры_из_3х_значного_числа.genruntimeconfig.cache
+C:\Users\Buyanov.D\Desktop\C#\Task07_Вывод_последней_цифры_из_3х_значного_числа\obj\Debug\net6.0\ref\Task07_Вывод_последней_цифры_из_3х_значного_числа.dll

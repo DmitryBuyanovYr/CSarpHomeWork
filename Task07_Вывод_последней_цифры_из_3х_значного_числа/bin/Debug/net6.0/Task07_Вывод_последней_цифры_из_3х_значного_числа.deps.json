@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task07_Вывод_последней_цифры_из_3х_значного_числа/1.0.0": {
+        "runtime": {
+          "Task07_Вывод_последней_цифры_из_3х_значного_числа.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task07_Вывод_последней_цифры_из_3х_значного_числа/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
