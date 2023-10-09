@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj": {}
+    "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj": {
+    "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj",
+        "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj",
         "projectName": "Task08_четные_числа_до_N",
-        "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj",
-        "packagesPath": "C:\\Users\\alayb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\obj\\",
+        "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj",
+        "packagesPath": "C:\\Users\\Buyanov.D\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alayb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Buyanov.D\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

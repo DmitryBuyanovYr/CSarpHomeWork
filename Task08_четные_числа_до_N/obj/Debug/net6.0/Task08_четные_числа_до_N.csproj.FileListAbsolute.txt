@@ -13,3 +13,18 @@ C:\Users\alayb\OneDrive\Рабочий стол\C#\CSarpHomeWork\Task08_четн
 C:\Users\alayb\OneDrive\Рабочий стол\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.pdb
 C:\Users\alayb\OneDrive\Рабочий стол\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.genruntimeconfig.cache
 C:\Users\alayb\OneDrive\Рабочий стол\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\ref\Task08_четные_числа_до_N.dll
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\bin\Debug\net6.0\Task08_четные_числа_до_N.exe
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\bin\Debug\net6.0\Task08_четные_числа_до_N.deps.json
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\bin\Debug\net6.0\Task08_четные_числа_до_N.runtimeconfig.json
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\bin\Debug\net6.0\Task08_четные_числа_до_N.dll
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\bin\Debug\net6.0\Task08_четные_числа_до_N.pdb
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.csproj.AssemblyReference.cache
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.AssemblyInfoInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.AssemblyInfo.cs
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.csproj.CoreCompileInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.dll
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\refint\Task08_четные_числа_до_N.dll
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.pdb
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\Task08_четные_числа_до_N.genruntimeconfig.cache
+C:\Users\Buyanov.D\Desktop\C#\CSarpHomeWork\Task08_четные_числа_до_N\obj\Debug\net6.0\ref\Task08_четные_числа_до_N.dll
