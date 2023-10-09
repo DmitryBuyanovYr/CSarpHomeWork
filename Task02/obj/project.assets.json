@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\alayb\\.nuget\\packages\\": {}
+    "C:\\Users\\Buyanov.D\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task02\\Task02.csproj",
+      "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task02\\Task02.csproj",
       "projectName": "Task02",
-      "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task02\\Task02.csproj",
-      "packagesPath": "C:\\Users\\alayb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task02\\obj\\",
+      "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task02\\Task02.csproj",
+      "packagesPath": "C:\\Users\\Buyanov.D\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alayb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Buyanov.D\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

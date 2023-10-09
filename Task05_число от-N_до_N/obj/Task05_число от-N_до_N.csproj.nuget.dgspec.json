@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj": {}
+    "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj": {
+    "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj",
+        "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj",
         "projectName": "Task05_число от-N_до_N",
-        "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj",
+        "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj",
         "packagesPath": "C:\\Users\\Buyanov.D\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task05_число от-N_до_N\\obj\\",
+        "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task05_число от-N_до_N\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Buyanov.D\\AppData\\Roaming\\NuGet\\NuGet.Config"
