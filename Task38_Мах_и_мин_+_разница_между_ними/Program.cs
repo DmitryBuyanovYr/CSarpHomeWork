@@ -17,17 +17,17 @@ array и возвращает разницу между максимальным
 
 Console.Clear();
 
-int[] GetRnd(int size)
+double[] GetRnd(int size)
 {
-    int[] array = new int[size];
+    double[] array = new double[size];
     for (int i = 0; i < size; i++)
     {
-        array[i] = new Random().Next(10, 100);
+        array[i] = new Random().Next(-90, 100) + new Random().NextDouble();//new Random().NextDouble()(*10 создание массива от 0 до 10); -> создание чисел после ,!!!
     }
     return array;
 }
 
-void PrintArray(int[] arr)
+void PrintArray(double[] arr)
 {
     Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("[");
@@ -35,48 +35,48 @@ void PrintArray(int[] arr)
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
         Thread.Sleep(50);
-        System.Console.Write(arr[i]);
+        System.Console.Write(Math.Round(arr[i], 2));
         if (i < arr.Length - 1)
-            System.Console.Write(", ");
+            System.Console.Write("; ");
     }
     Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("] ");
     Console.ResetColor();
 }
 
-int Max(int[] arrey)
+double Max(double[] arrey)
 {
-    int max = arrey[0];
+    double max = arrey[0];
     for (int i = 0; i < arrey.Length; i++)
     {
-        if (arrey[i]>max) max = arrey[i];
+        if (arrey[i] > max) max = arrey[i];
     }
     return max;
 }
 
-int Min(int[] arrey)
+double Min(double[] arrey)
 {
-    int min = arrey[0];
+    double min = arrey[0];
     for (int i = 0; i < arrey.Length; i++)
     {
-        if (arrey[i]<min) min = arrey[i];
+        if (arrey[i] < min) min = arrey[i];
     }
     return min;
 }
 
-int Difference(int[] arrey)
+double Difference(double[] arrey)
 {
-    int max = Max(arrey);
-    int min = Min(arrey);
-    int diff = max - min;
+    double max = Max(arrey);
+    double min = Min(arrey);
+    double diff = max - min;
     return diff;
 }
 
 System.Console.Write("Введи размер массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
-int[] userArrey = GetRnd(size);
-PrintArray(userArrey);
+double[] userArray = GetRnd(size);
+PrintArray(userArray);
 System.Console.WriteLine();
-System.Console.WriteLine($"Мax число = {Max(userArrey)}");
-System.Console.WriteLine($"Мин число = {Min(userArrey)}");
-System.Console.WriteLine($"Разница между МАХ и MIN = {Difference(userArrey)}");
+System.Console.WriteLine($"Мax число = {Math.Round(Max(userArray), 2)}");
+System.Console.WriteLine($"Мин число = {Math.Round(Min(userArray), 2)}");
+System.Console.WriteLine($"Разница между МАХ и MIN = {Math.Round(Difference(userArray), 2)}");
