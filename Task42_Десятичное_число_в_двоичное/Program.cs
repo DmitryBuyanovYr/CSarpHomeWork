@@ -25,7 +25,7 @@ void DacVin(int numb)
     for (int i = numb; i > 0; i /= 2)
     {
         binary = i % 2;
-        result = result + binary;
+        result = binary + result;
     }
     System.Console.WriteLine(result);
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj": {}
+    "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj": {
+    "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj",
+        "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj",
         "projectName": "Task04 мах_число_из_3х",
-        "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj",
-        "packagesPath": "C:\\Users\\alayb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\obj\\",
+        "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj",
+        "packagesPath": "C:\\Users\\Buyanov.D\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alayb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Buyanov.D\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

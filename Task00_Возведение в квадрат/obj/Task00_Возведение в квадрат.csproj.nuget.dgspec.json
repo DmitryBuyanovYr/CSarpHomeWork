@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj": {}
+    "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj": {
+    "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
+        "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
         "projectName": "Task00_Возведение в квадрат",
-        "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
+        "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
         "packagesPath": "C:\\Users\\Buyanov.D\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\Task00_Возведение в квадрат\\obj\\",
+        "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Buyanov.D\\AppData\\Roaming\\NuGet\\NuGet.Config"
