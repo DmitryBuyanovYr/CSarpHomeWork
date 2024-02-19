@@ -1,0 +1,15 @@
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\bin\Debug\net6.0\2Task01_Проверка на квадрат.exe
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\bin\Debug\net6.0\2Task01_Проверка на квадрат.deps.json
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\bin\Debug\net6.0\2Task01_Проверка на квадрат.runtimeconfig.json
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\bin\Debug\net6.0\2Task01_Проверка на квадрат.dll
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\bin\Debug\net6.0\2Task01_Проверка на квадрат.pdb
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\2Task01_Проверка на квадрат.csproj.AssemblyReference.cache
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\2Task01_Проверка на квадрат.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\2Task01_Проверка на квадрат.AssemblyInfoInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\2Task01_Проверка на квадрат.AssemblyInfo.cs
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\2Task01_Проверка на квадрат.csproj.CoreCompileInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\2Task01_Проверка на квадрат.dll
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\refint\2Task01_Проверка на квадрат.dll
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\2Task01_Проверка на квадрат.pdb
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\2Task01_Проверка на квадрат.genruntimeconfig.cache
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task01_Проверка на квадрат\obj\Debug\net6.0\ref\2Task01_Проверка на квадрат.dll

@@ -1,0 +1,15 @@
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\2Task02 Числа от -N до N.csproj.AssemblyReference.cache
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\2Task02 Числа от -N до N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\2Task02 Числа от -N до N.AssemblyInfoInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\2Task02 Числа от -N до N.AssemblyInfo.cs
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\2Task02 Числа от -N до N.csproj.CoreCompileInputs.cache
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\bin\Debug\net6.0\2Task02 Числа от -N до N.exe
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\bin\Debug\net6.0\2Task02 Числа от -N до N.deps.json
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\bin\Debug\net6.0\2Task02 Числа от -N до N.runtimeconfig.json
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\bin\Debug\net6.0\2Task02 Числа от -N до N.dll
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\bin\Debug\net6.0\2Task02 Числа от -N до N.pdb
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\2Task02 Числа от -N до N.dll
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\refint\2Task02 Числа от -N до N.dll
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\2Task02 Числа от -N до N.pdb
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\2Task02 Числа от -N до N.genruntimeconfig.cache
+C:\Users\Buyanov.D\Desktop\C#\C#\CSarpHomeWork\2Task02 Числа от -N до N\obj\Debug\net6.0\ref\2Task02 Числа от -N до N.dll
