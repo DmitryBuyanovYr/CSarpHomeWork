@@ -6,6 +6,11 @@ Console.Clear();
 System.Console.Write("Введи число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
+if (number < 0)
+{
+    number *= -1;
+}
+
 for (int i = -number; i < number + 1; i++)
 {
     System.Console.Write(i);

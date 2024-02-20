@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
+      "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
       "projectName": "Task01_проверка_Квадрата",
-      "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
+      "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
       "packagesPath": "C:\\Users\\Buyanov.D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\obj\\",
+      "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Buyanov.D\\AppData\\Roaming\\NuGet\\NuGet.Config"
