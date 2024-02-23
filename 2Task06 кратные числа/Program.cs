@@ -9,7 +9,7 @@ double firstNumber = Convert.ToDouble(Console.ReadLine());
 System.Console.Write("Введи второе число: ");
 double secondNumber = Convert.ToDouble(Console.ReadLine());
 
-if ((firstNumber / secondNumber) % 2 == 0 || (secondNumber / firstNumber) % 2 == 0)
+if (firstNumber % secondNumber == 0 || secondNumber % firstNumber == 0)
 {
     System.Console.WriteLine($"Числа {firstNumber} и {secondNumber} являються кратными");
 }
