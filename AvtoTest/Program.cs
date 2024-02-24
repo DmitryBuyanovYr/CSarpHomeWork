@@ -1,41 +1,69 @@
-﻿/*
-Внутри класса Answer напишите метод PrintEvenNumbers, которая на вход принимает число (number), а на выходе 
-выводит все чётные числа от 1 до number (включительно), после каждого числа должен быть знак пробела.
-*/
+﻿/*Задайте одномерный массив из 10 целых чисел от 1 до 100. Найдите 
+количество элементов массива, значения которых лежат в отрезке [10,90].*/
 
 using System;
+using System.Linq;
 
-public class Answer {
-    static void PrintEvenNumbers(int number)
+//Тело класса будет написано студентом. Класс обязан иметь статический метод PrintResult()
+class UserInputToCompileForTest
+{
+    // Подсчет количества элементов массива, попадающих в заданный диапазон
+    // numbers - массив, в котором ведется подсчет
+    // minRange - минимальная граница диапазона
+    // maxRange - максимальная граница диапазона
+    public static int CountItemsRange(int[] numbers, int minRange, int maxRange)
     {
-    // Введите свое решение ниже
-    for (int i = 1; i < number +1; i++)
-    {
-        if (i % 2 == 0)
+        minRange = 10;
+        maxRange = 90;
+        int resalt = 0;
+        for (int i = 0; i < numbers.Length; i++)
         {
-            System.Console.Write(i);
-            if (i<number)
+            if (numbers[i] > minRange || numbers < maxRange)
             {
-                System.Console.Write(" ");
+                resalt++;
             }
         }
+        return resalt;
+        //Введите сюда свое решение
     }
 
+    public static void PrintResult(int[] array)
+    {
+        array[] = CountItemsRange(int[] numbers, int minRange, int maxRange);
+        System.Console.WriteLine(array);
+        
+        //Введите сюда свое решение
     }
 
+}
 
-  // Не удаляйте и не меняйте метод Main! 
-    static public void Main(string[] args) {
-        int number;
 
-        if (args.Length >= 1) {
-            number = int.Parse(args[0]);
-        } else {
-           // Здесь вы можете поменять значения для отправки кода на Выполнение
-            number = 6;
+//Не удаляйте и не меняйте класс Answer!
+class Answer
+{
+    public static void Main(string[] args)
+    {
+        int[] array;
+
+
+        if (args.Length >= 1)
+        {
+            // Объединяем все аргументы командной строки в одну строку
+            string joinedArgs = string.Join(" ", args);
+
+            // Разделяем строку по запятой с пробелом и преобразуем в массив целых чисел
+            array = joinedArgs.Split(", ")
+                                  .Select(int.Parse)
+                                  .ToArray();
+
+            // Теперь arr содержит преобразованные в целые числа из командной строки
+
         }
-
-        // Не удаляйте строки ниже
-        PrintEvenNumbers(number);
+        else
+        {
+            // Если аргументов на входе нет
+            array = new int[] { 1, 5, 10, 20, 30, 40, 99, 4, 90, 3 }; // Создание массива
+        }
+        UserInputToCompileForTest.PrintResult(array);
     }
 }
