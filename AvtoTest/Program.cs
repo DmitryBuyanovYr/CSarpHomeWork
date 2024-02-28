@@ -1,69 +1,60 @@
-﻿/*Задайте одномерный массив из 10 целых чисел от 1 до 100. Найдите 
-количество элементов массива, значения которых лежат в отрезке [10,90].*/
-
-using System;
-using System.Linq;
-
-//Тело класса будет написано студентом. Класс обязан иметь статический метод PrintResult()
-class UserInputToCompileForTest
+﻿int[] array = new int[10];
+void FillArray(int[] array1)
 {
-    // Подсчет количества элементов массива, попадающих в заданный диапазон
-    // numbers - массив, в котором ведется подсчет
-    // minRange - минимальная граница диапазона
-    // maxRange - максимальная граница диапазона
-    public static int CountItemsRange(int[] numbers, int minRange, int maxRange)
+    for (int i = 0; i < array1.Length; i++)
     {
-        minRange = 10;
-        maxRange = 90;
-        int resalt = 0;
-        for (int i = 0; i < numbers.Length; i++)
+        array1[i] = new Random().Next(1, 10);
+    }
+}
+void PrintArray(int[] array2)
+{
+    System.Console.Write("[");
+    for (int i = 0; i < array2.Length; i++)
+    {
+        System.Console.Write(array2[i]);
+        if (i < array2.Length - 1)
         {
-            if (numbers[i] > minRange || numbers < maxRange)
-            {
-                resalt++;
-            }
+            System.Console.Write("; ");
         }
-        return resalt;
-        //Введите сюда свое решение
     }
-
-    public static void PrintResult(int[] array)
+    System.Console.Write("]");
+}
+int SumArray(int[] array3)
+{
+    int sum = 0;
+    for (int i = 0; i < array3.Length; i++)
     {
-        array[] = CountItemsRange(int[] numbers, int minRange, int maxRange);
-        System.Console.WriteLine(array);
-        
-        //Введите сюда свое решение
+        sum = sum + array3[i];
     }
-
+    return sum;
+}
+int ProductArray(int[] array4)
+{
+    int prod = 1;
+    for (int i = 0; i < array4.Length; i++)
+    {
+        prod = prod * array4[i];
+    }
+    return prod;
 }
 
 
-//Не удаляйте и не меняйте класс Answer!
-class Answer
-{
-    public static void Main(string[] args)
-    {
-        int[] array;
+FillArray(array);
+PrintArray(array);
+System.Console.WriteLine();
+int sum = SumArray(array);
+System.Console.WriteLine(sum);
+int product = ProductArray(array);
+System.Console.WriteLine(product);
 
 
-        if (args.Length >= 1)
-        {
-            // Объединяем все аргументы командной строки в одну строку
-            string joinedArgs = string.Join(" ", args);
 
-            // Разделяем строку по запятой с пробелом и преобразуем в массив целых чисел
-            array = joinedArgs.Split(", ")
-                                  .Select(int.Parse)
-                                  .ToArray();
 
-            // Теперь arr содержит преобразованные в целые числа из командной строки
 
-        }
-        else
-        {
-            // Если аргументов на входе нет
-            array = new int[] { 1, 5, 10, 20, 30, 40, 99, 4, 90, 3 }; // Создание массива
-        }
-        UserInputToCompileForTest.PrintResult(array);
-    }
-}
+
+
+
+
+
+
+
