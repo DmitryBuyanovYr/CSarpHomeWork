@@ -1,60 +1,38 @@
-﻿int[] array = new int[10];
-void FillArray(int[] array1)
-{
-    for (int i = 0; i < array1.Length; i++)
-    {
-        array1[i] = new Random().Next(1, 10);
+﻿using System;using System.Linq;
+//Тело класса будет написано студентом. Класс обязан иметь статический метод PrintResult()
+class UserInputToCompileForTest{
+    // Разница между максимальным и минимальным элементами массива
+    // Нахождение минимума массива    public static double FindMin(double[] numbers)
+    {        double min = numbers[0];
+        for (int i = 0; i < numbers.Length; i++)        {
+            if (numbers[i] < min)            {
+                min = numbers[i];            }
+        }        return min;
     }
-}
-void PrintArray(int[] array2)
-{
-    System.Console.Write("[");
-    for (int i = 0; i < array2.Length; i++)
-    {
-        System.Console.Write(array2[i]);
-        if (i < array2.Length - 1)
-        {
-            System.Console.Write("; ");
-        }
+    // Нахождение максимума массива    public static double FindMax(double[] numbers)
+    {        double max = numbers[0];
+        for (int i = 0; i < numbers.Length; i++)        {
+            if (numbers[i] > max)            {
+                max = numbers[i];            }
+        }        return max;
     }
-    System.Console.Write("]");
-}
-int SumArray(int[] array3)
-{
-    int sum = 0;
-    for (int i = 0; i < array3.Length; i++)
+
+    public static void PrintResult(double[] array)
     {
-        sum = sum + array3[i];
-    }
-    return sum;
+        double min = FindMin(array);        double max = FindMax(array);
+        System.Console.Write(max-min);    }
 }
-int ProductArray(int[] array4)
-{
-    int prod = 1;
-    for (int i = 0; i < array4.Length; i++)
-    {
-        prod = prod * array4[i];
-    }
-    return prod;
+//Не удаляйте и не меняйте класс Answer!class Answer
+{    public static void Main(string[] args)
+    {        double[] array;
+        
+        if (args.Length >= 1) {            // Объединяем все аргументы командной строки в одну строку
+            string joinedArgs = string.Join(" ", args);
+            // Разделяем строку по запятой с пробелом и преобразуем в массив целых чисел            array = joinedArgs.Split(", ")
+                                  .Select(double.Parse)                                  .ToArray();
+                        // Теперь arr содержит преобразованные в целые числа из командной строки
+        
+        } else {           // Если аргументов на входе нет
+            array = new double[] {0.25, 5.4, 1.3, 2.1, 3.8, 5.2, 3.01}; // Создание массива        }
+        UserInputToCompileForTest.PrintResult(array);    }
 }
-
-
-FillArray(array);
-PrintArray(array);
-System.Console.WriteLine();
-int sum = SumArray(array);
-System.Console.WriteLine(sum);
-int product = ProductArray(array);
-System.Console.WriteLine(product);
-
-
-
-
-
-
-
-
-
-
-
-

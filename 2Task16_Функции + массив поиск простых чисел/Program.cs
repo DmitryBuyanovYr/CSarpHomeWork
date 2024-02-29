@@ -12,42 +12,123 @@ int[] CreationArray(int size)
         array[i] = new Random().Next(10, 100);
     }
     return array;
+
 }
 
 void PrintArray(int[] array)
 {
     Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("[");
-    for (int i = 0; i < arr.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
         Thread.Sleep(50);
-        System.Console.Write(arr[i]);
-        if (i < arr.Length - 1)
+        System.Console.Write(array[i]);
+        if (i < array.Length - 1)
             System.Console.Write(", ");
     }
     Console.ForegroundColor = ConsoleColor.Green;
     System.Console.Write("] ");
-    Console.ResetColor();
+
 }
 
-int FindingPrimeNumber(int[] array)
+bool prost(int num)
+{
+    if (num == 0 || num == 1)
+    {
+        return false;
+    }
+    else
+    {
+        for (int i = 2; i < num; i++)
+        {
+            if (num % i == 0) return false;
+        }
+        return true;
+    }
+}
+
+int Count(int[] mas)
 {
     int count = 0;
-    for (int i = 2; i < array.Length; i++)
+    foreach (var item in mas)
     {
-        if (array[i] % array[i] == 0 && array[i] % 2 != 0)
+        if (prost(item))
         {
-            count ++;
+            Console.Write($"{item} ");
+            count++;
         }
     }
+    Console.WriteLine();
     return count;
 }
 
 System.Console.Write("Введи размер массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
-int[] array = new int[size];
-CreationArray(size);
-System.Console.WriteLine();
+int[] array = CreationArray(size);
 PrintArray(array);
-//System.Console.WriteLine(FindingPrimeNumber(array));
+System.Console.WriteLine();
+Console.WriteLine(Count(array));
+
+
+
+/*
+int[] Random_mas(int[] mas)
+{
+    for (int i = 0; i < mas.Length; i++)
+    {
+        mas[i] = new Random().Next(0, 10);
+    }
+    return mas;
+}
+
+void Print_mas(int[] col)
+{
+    foreach (var item in col)
+    {
+        Console.Write($"{item} ");
+    }
+    Console.WriteLine();
+}
+
+bool prost(int num)
+{
+    if (num == 0 || num == 1)
+    {
+        return false;
+    }
+    else
+    {
+        for (int i = 2; i < num; i++)
+        {
+            if (num % i == 0) return false;
+        }
+        return true;
+    }
+}
+
+
+
+int Count(int[] mas)
+{
+    int count = 0;
+    foreach (var item in mas)
+    {
+        if (prost(item))
+        {
+            Console.Write($"{item} ");
+            count++;
+        }
+    }
+    Console.WriteLine();
+    return count;
+}
+
+Console.Write("Введите размерность массива: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+int[] mas = Random_mas(new int[n]);
+Print_mas(mas);
+
+Console.WriteLine(Count(mas));
+*/
