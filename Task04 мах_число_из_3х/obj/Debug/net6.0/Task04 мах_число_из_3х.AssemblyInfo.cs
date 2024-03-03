@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task04 мах_число_из_3х")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49a150247adaff3c336940f28ef2c60bb69d3ead")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task04 мах_число_из_3х")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task04 мах_число_из_3х")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

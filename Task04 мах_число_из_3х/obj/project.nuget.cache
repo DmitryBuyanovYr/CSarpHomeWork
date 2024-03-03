@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VJwuVon6rUz9zgjy2CBLMEkLIIA3+7TAZ/tTGObY64Hb6wOEGn/78/0ZA4Kzg3ZtGFB5U2RmAOjGWujZbraQ7A==",
+  "dgSpecHash": "8uBxEMHAJxAYXqstdRG5GHbc1lL9O4d80Npd7r/GcPOG+PzXyexLomzRj84K00WZOenRQwxSAFZVPAqUBsO1gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alayb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\alayb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\alayb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\alayb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

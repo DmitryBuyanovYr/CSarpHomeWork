@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Buyanov.D\\.nuget\\packages\\": {}
+    "C:\\Users\\alayb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Buyanov.D\\Desktop\\C#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
+      "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
       "projectName": "Task00_Возведение в квадрат",
-      "projectPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
-      "packagesPath": "C:\\Users\\Buyanov.D\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\obj\\",
+      "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
+      "packagesPath": "C:\\Users\\alayb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Buyanov.D\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\alayb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,12 +56,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

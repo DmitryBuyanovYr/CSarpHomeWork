@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lRDwhI5upntS8+26ZJAtLDumESrSk46VnaMWJg6Qb5CPFLW/nzwwZm/HkN1R+M3GwLQKt6O0nge3DYCtEFijCw==",
+  "dgSpecHash": "ue3P6dva1H9e/3UlbtYcNM+9znse23p+741r60W2YIEbEr8F5hqj7/seXc7JaeeVn5YbwkdkmmkQ0fcaWvCRAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Buyanov.D\\Desktop\\C#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alayb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\alayb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\alayb\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\alayb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }
