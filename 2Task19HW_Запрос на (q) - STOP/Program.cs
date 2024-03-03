@@ -16,11 +16,11 @@ while (true)
                 break;
             }
 
-            else
+            /*else
             {
-                Console.WriteLine("Введите еще одно целое число: ");
+                //Console.WriteLine("Введите еще одно целое число: ");
                 input = Console.ReadLine()!;
-            }
+            }*/
         }
     
 
