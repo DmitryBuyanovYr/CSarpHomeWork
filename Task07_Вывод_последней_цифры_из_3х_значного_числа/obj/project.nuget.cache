@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ljdlqL/b83sCBRFt6/8c90PzpiZarabCotDnczjnAXnNITwHydva2apvxwQecdTyi7RCI4G3GZH5cmUiBxQe8A==",
+  "dgSpecHash": "NwrrqEgnBtm+fjuqKC1rhwVlIFBLMHVG65594obzGvBf4m2MBkQTAJKov/5ztzNlpIK7q1n22Wc/nqUxT87AvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj",
+  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",

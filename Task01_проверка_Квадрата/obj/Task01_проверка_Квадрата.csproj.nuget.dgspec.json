@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj": {}
+    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj": {
+    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
+        "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
         "projectName": "Task01_проверка_Квадрата",
-        "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
+        "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\Task01_проверка_Квадрата.csproj",
         "packagesPath": "C:\\Users\\alayb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\obj\\",
+        "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task01_проверка_Квадрата\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alayb\\AppData\\Roaming\\NuGet\\NuGet.Config",

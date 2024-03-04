@@ -1,61 +1,68 @@
-﻿/*Задайте одномерный массив, заполненный случайными числами. 
-Определите количество простых чисел в этом массиве.
-Примеры
-[1 3 4 19 3] => 2
-[4 3 4 1 9 5 21 13] => 3*/
-
-int[] CreationArray(int size)
+﻿int[] array = { 1, 2, 10, 8, 0, 3, 6, 7, 11, 12 };
+int srednee = 0;
+for (int i = 0; i < array.Length; i++)
 {
-    int[] array = new int[size];
-    for (int i = 0; i < array.Length; i++)
+    srednee = srednee + array[i];
+}
+srednee = srednee / array.Length;
+System.Console.WriteLine(srednee);
+
+
+
+/*int[,] CreationDoubleArray(int rows, int columns)
+{
+    int[,] array = new int[rows, columns];
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        array[i] = new Random().Next(1,51);
-        
-    }
-    System.Console.Write("[");
-    for (int i = 0; i < array.Length; i++)
-    {
-        System.Console.Write(array[i]);
-        if (i < array.Length - 1)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            Console.Write("; ");
+            array[i, j] = new Random().Next(1, 10);
         }
     }
-    System.Console.Write("]");
     return array;
+
 }
 
-void PrintArray(int[] array)
+void PrintArray(int[,] array)
 {
-    System.Console.Write("[");
-    for (int i = 0; i < array.Length; i++)
+
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        System.Console.Write(array[i]);
-        if (i < array.Length - 1)
+
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            Console.Write("; ");
+            System.Console.Write($"{array[i, j]}\t");
         }
+        System.Console.WriteLine();
     }
-    System.Console.Write("]");
+
+
 }
 
-int FindingPrimeNumber(int[] array)
+int rows = 1;
+int columns = 3;
+
+int[,] arr = CreationDoubleArray(rows, columns);
+PrintArray(arr);
+
+int [,] array = CreationDoubleArray(rows, columns);
+
+int[] array2 = new int[columns];
+int index = 0;
+int k = 0;
+for (int j = 0; j < array.GetLength(1); j++) // смена строчки
 {
-    int count = 0;
-    for (int i = 0; i < array.Length; i++)
+    for (int i = 0; i < array.GetLength(0); i++) // смена столбца
     {
-        if (array[i] % array[i] == 0 /*&& array[i] % 2 != 0*/)
-        {
-            count ++;
-        }
+        index = index + array[i, j];
+        System.Console.Write(index + " ");
     }
-    return count;
-}
 
-System.Console.Write("Введи размер массива: ");
-int size = Convert.ToInt32(Console.ReadLine());
-int[] array = new int[size];
-CreationArray(size);
+    index = index / array2.Length;
+    array2[k] = index;
+    k++;
+}
 System.Console.WriteLine();
-//PrintArray(array);
-System.Console.WriteLine(FindingPrimeNumber(array));
+System.Console.WriteLine(index);
+*/
+

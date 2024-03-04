@@ -1,38 +1,95 @@
-﻿using System;using System.Linq;
+﻿/*Задайте прямоугольный двумерный массив. Напишите программу, 
+которая будет находить строку с наименьшей суммой элементов.*/
+using System;
+
 //Тело класса будет написано студентом. Класс обязан иметь статический метод PrintResult()
-class UserInputToCompileForTest{
-    // Разница между максимальным и минимальным элементами массива
-    // Нахождение минимума массива    public static double FindMin(double[] numbers)
-    {        double min = numbers[0];
-        for (int i = 0; i < numbers.Length; i++)        {
-            if (numbers[i] < min)            {
-                min = numbers[i];            }
-        }        return min;
-    }
-    // Нахождение максимума массива    public static double FindMax(double[] numbers)
-    {        double max = numbers[0];
-        for (int i = 0; i < numbers.Length; i++)        {
-            if (numbers[i] > max)            {
-                max = numbers[i];            }
-        }        return max;
+class UserInputToCompileForTest
+{
+    // Вычисление сумм по строкам (на выходе массив с суммами строк)
+    public static int[] SumRows(int[,] array)
+    {
+        //Напишите свое решение здесь
+        int[] arr2 = new int[array.GetLength(0)];
+        for (int i = 0; i < array.GetLength(0); i++)
+        {
+            for (int j = 0; j < array.GetLength(1); j++)
+            {
+                arr2[i] = arr2[i] + array[i,j];
+            }
+        }
+        return arr2;
     }
 
-    public static void PrintResult(double[] array)
+    // Получение индекса минимального элемента в одномерном массиве
+    public static int MinIndex(int[] array)
     {
-        double min = FindMin(array);        double max = FindMax(array);
-        System.Console.Write(max-min);    }
+        //Напишите свое решение здесь
+        int min = array[0];
+        int result = 0;
+        for (int i = 0; i < array.Length; i++)
+        {
+            if (min > array[i])
+            {
+                result = i;
+            }
+        }
+        return result;
+    }
+    public static void PrintResult(int[,] numbers)
+    {
+        //Напишите свое решение здесь
+        int[] arr3 = SumRows(numbers);
+        int min2 = MinIndex(arr3);
+        System.Console.WriteLine(min2);
+    }
 }
-//Не удаляйте и не меняйте класс Answer!class Answer
-{    public static void Main(string[] args)
-    {        double[] array;
-        
-        if (args.Length >= 1) {            // Объединяем все аргументы командной строки в одну строку
-            string joinedArgs = string.Join(" ", args);
-            // Разделяем строку по запятой с пробелом и преобразуем в массив целых чисел            array = joinedArgs.Split(", ")
-                                  .Select(double.Parse)                                  .ToArray();
-                        // Теперь arr содержит преобразованные в целые числа из командной строки
-        
-        } else {           // Если аргументов на входе нет
-            array = new double[] {0.25, 5.4, 1.3, 2.1, 3.8, 5.2, 3.01}; // Создание массива        }
-        UserInputToCompileForTest.PrintResult(array);    }
+
+//Не удаляйте и не меняйте класс Answer!
+class Answer
+{
+    public static void Main(string[] args)
+    {
+        int[,] numbers;
+
+        if (args.Length >= 1)
+        {
+            // Предполагается, что строки разделены запятой и пробелом, а элементы внутри строк разделены пробелом
+            string[] rows = args[0].Split(',');
+
+            int rowCount = rows.Length;
+            int colCount = rows[0].Trim().Split(' ').Length;
+
+            numbers = new int[rowCount, colCount];
+
+            for (int i = 0; i < rowCount; i++)
+            {
+                string[] rowElements = rows[i].Trim().Split(' ');
+
+                for (int j = 0; j < colCount; j++)
+                {
+                    if (int.TryParse(rowElements[j], out int result))
+                    {
+                        numbers[i, j] = result;
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Error parsing element {rowElements[j]} to an integer.");
+                        return;
+                    }
+                }
+            }
+        }
+        else
+        {
+            // Если аргументов на входе нет, используем примерный массив
+
+            numbers = new int[,] {
+                {1, 2, 3},
+                {8, 1, 0},
+                {7, 8, 2},
+                {9, 10, 11}
+    };
+        }
+        UserInputToCompileForTest.PrintResult(numbers);
+    }
 }

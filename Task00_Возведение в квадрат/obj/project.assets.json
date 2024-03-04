@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
+      "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
       "projectName": "Task00_Возведение в квадрат",
-      "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
+      "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\Task00_Возведение в квадрат.csproj",
       "packagesPath": "C:\\Users\\alayb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\obj\\",
+      "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task00_Возведение в квадрат\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alayb\\AppData\\Roaming\\NuGet\\NuGet.Config",

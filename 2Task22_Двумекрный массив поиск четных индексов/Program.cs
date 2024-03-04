@@ -8,7 +8,7 @@ int[,] CreationDoubleArray(int rows, int columns)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            array[i,j] = new Random().Next(0, 9);
+            array[i, j] = new Random().Next(0, 9);
         }
     }
     return array;
@@ -17,32 +17,35 @@ int[,] CreationDoubleArray(int rows, int columns)
 
 void PrintArray(int[,] array)
 {
-   
+
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        
+
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            System.Console.Write($"{array[i,j]}\t");
+            System.Console.Write($"{array[i, j]}\t");
         }
         System.Console.WriteLine();
     }
-   
+
 
 }
 
 
-int [,] SearchEvenIndex(int[,]array )
+int[,] SearchEvenIndex(int[,] array)
 {
-    int rows
-    int columns
+    
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int J = 0; J < array.GetLength(1); J++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            
+            if (i % 2 == 0 && j % 2 == 0)
+            {
+                array[i, j] = array[i, j] * array[i, j];
+            }
         }
     }
+    return array;
 }
 
 
@@ -52,8 +55,10 @@ System.Console.Write("Введи число столбцов массива: ");
 int columns = Convert.ToInt32(Console.ReadLine());
 
 
-int[,] arr = CreationDoubleArray(rows,columns);
+int[,] arr = CreationDoubleArray(rows, columns);
 PrintArray(arr);
 System.Console.WriteLine();
+arr = SearchEvenIndex(arr);
+PrintArray(arr);
 
 

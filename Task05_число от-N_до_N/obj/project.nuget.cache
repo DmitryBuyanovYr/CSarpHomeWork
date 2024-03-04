@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+pgxcSgl99IZVm7W1fm6uRTusGVtig6ABbbIN2hJRoYsVOql347lKL7NbzRfrDuzTuIhJ5Ecq6U7j5z958lV+w==",
+  "dgSpecHash": "OZds0RbnLr+f/7NRjnW0wWJpye4soMRgtJM0kCFLTCTX985z76EQTd5rHQGnjbE03VrBdtDjjcUM53Z/Gus8BA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj",
+  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task05_число от-N_до_N\\Task05_число от-N_до_N.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",

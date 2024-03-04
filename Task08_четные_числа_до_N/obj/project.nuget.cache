@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kR88KkBCROCgl3upyKhs0/K2U4GlivwYwQNkbQxm054W5iBGXP0sQ0A/zro+V9+qQUt2kX4BJ5/nqmlh1gwqmg==",
+  "dgSpecHash": "j5dD2NiRCT4vre1GLMZYVMIOQ2rohK/V8Ktk9qETr9FDHdhwE6y5ZdnDRWxny4ydj8wxngEdvre0qZQ3HE/Faw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj",
+  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task08_четные_числа_до_N\\Task08_четные_числа_до_N.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",

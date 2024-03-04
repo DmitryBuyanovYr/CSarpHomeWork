@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j/3jOlswpRjNqONQrefroayEZ2hc6QMK3MxiMzLTsLowU5NIPUahQtmSMgu6Q1r1XLXj3/4i3jacvrfQLiQLmg==",
+  "dgSpecHash": "9RPUqn2sgpIMWZKzXy6hYgpr1n/wGVjhp0StMxA4n0W+m/pKH5WURCR8zuKAMCkKmi/SSk1dS2xDw5EZVpRgJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task03_Календарь\\Task03_Календарь.csproj",
+  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task03_Календарь\\Task03_Календарь.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",

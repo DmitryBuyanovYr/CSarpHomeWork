@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8uBxEMHAJxAYXqstdRG5GHbc1lL9O4d80Npd7r/GcPOG+PzXyexLomzRj84K00WZOenRQwxSAFZVPAqUBsO1gQ==",
+  "dgSpecHash": "y6Tvrdn8wpLKZ1HLYUeN0ywfdw3OKS2sMEgAwWeqlSYYvwxWRA0hf1F7NgJIwQlaTq+eRk1h4QJoIJ7/27TgsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj",
+  "projectFilePath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task04 мах_число_из_3х\\Task04 мах_число_из_3х.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
     "C:\\Users\\alayb\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",

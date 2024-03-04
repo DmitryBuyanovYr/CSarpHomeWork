@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj": {}
+    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj": {
+    "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj",
+        "projectUniqueName": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj",
         "projectName": "Task07_Вывод_последней_цифры_из_3х_значного_числа",
-        "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj",
+        "projectPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\Task07_Вывод_последней_цифры_из_3х_значного_числа.csproj",
         "packagesPath": "C:\\Users\\alayb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\С#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\obj\\",
+        "outputPath": "C:\\Users\\alayb\\OneDrive\\Рабочий стол\\C#\\C#\\CSarpHomeWork\\Task07_Вывод_последней_цифры_из_3х_значного_числа\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alayb\\AppData\\Roaming\\NuGet\\NuGet.Config",
