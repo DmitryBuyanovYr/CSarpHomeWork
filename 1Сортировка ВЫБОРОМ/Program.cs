@@ -14,6 +14,8 @@ int[] sortVibor(int[] array)
             if (array[j] < array[indexMin])
                 indexMin = j;
         }
+        if (array[indexMin] == array[i])
+            continue;
         int temp = array[i];
         array[i] = array[indexMin];
         array[indexMin] = temp;
