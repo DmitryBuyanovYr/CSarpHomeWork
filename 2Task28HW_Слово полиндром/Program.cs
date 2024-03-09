@@ -1,6 +1,43 @@
 ﻿/*Задайте произвольную строку. Выясните, является ли она палиндромом.*/
 
-System.Console.Write("Введите слово: ");
+
+
+string one = Console.ReadLine()!;
+Console.WriteLine(isPalindrome ? "Да" : "Нет");
+
+//Задача 3: Проверка строки на палиндром
+public class Task3
+{
+    public static void Main(string[] args)
+    {
+        // Входная строка для проверки
+        string input = "шалаш";
+        // Вызов метода для проверки, является ли строка палиндромом bool isPalindrome = IsPalindrome(input);
+        // Вывод результата
+        Console.WriteLine(isPalindrome ? "Да" : "Нет");
+    }
+// Метод для проверки, является ли строка палиндромомpublic static bool IsPalindrome(string str)
+{
+// Нормализация строки путем удаления не буквенно-цифровыхсимволов и приведения к нижнему регистру
+string normalized = new
+string(str.Where(char.IsLetterOrDigit).ToArray()).ToLower();
+// Сравнение строки с ее перевернутым вариантом
+return normalized.SequenceEqual(normalized.Reverse());
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*System.Console.Write("Введите слово: ");
 string one = Console.ReadLine()!;
 //string[] arrayOne = new string[one.Length];
 //string[] arrayTwo = new string[arrayOne.Length];
@@ -19,7 +56,7 @@ Convert.ToChar(one);
 Convert.ToChar(two);
 
 if (one == two) System.Console.WriteLine("это слово палиндром");
-else System.Console.WriteLine("это слово палиндром");
+else System.Console.WriteLine("это слово палиндром");*/
 
 
 
